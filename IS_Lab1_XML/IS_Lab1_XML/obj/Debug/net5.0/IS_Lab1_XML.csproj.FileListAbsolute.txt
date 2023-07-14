@@ -1,0 +1,17 @@
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net5.0\IS_Lab1_XML.csprojAssemblyReference.cache
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net5.0\IS_Lab1_XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net5.0\IS_Lab1_XML.AssemblyInfoInputs.cache
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net5.0\IS_Lab1_XML.AssemblyInfo.cs
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net5.0\IS_Lab1_XML.csproj.CoreCompileInputs.cache
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net5.0\IS_Lab1_XML.exe
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net5.0\Assets\data.xml
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net5.0\IS_Lab1_XML.deps.json
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net5.0\IS_Lab1_XML.runtimeconfig.json
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net5.0\IS_Lab1_XML.runtimeconfig.dev.json
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net5.0\IS_Lab1_XML.dll
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net5.0\ref\IS_Lab1_XML.dll
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net5.0\IS_Lab1_XML.pdb
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net5.0\IS_Lab1_XML.dll
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net5.0\ref\IS_Lab1_XML.dll
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net5.0\IS_Lab1_XML.pdb
+D:\15\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net5.0\IS_Lab1_XML.genruntimeconfig.cache
