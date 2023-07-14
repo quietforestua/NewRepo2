@@ -41,9 +41,6 @@ namespace IS_Lab1_XML
 
             Console.WriteLine("Liczba produktów leczniczych w postaci {0}, których jedyną substancją czynną jest {1}: {2}", targetPostac, targetSubstancjaCzynna, count);
 
-            // Dodatkowe funkcje z XMLReadWithDOMApproach
-
-            // Odczyt i analiza innych danych z XML
             XmlDocument doc = new XmlDocument();
             doc.Load(xmlpath);
 
